@@ -1,4 +1,4 @@
-# Resturant_Data_Analysis
+# Resturant Data Analysis
 
 ## Introduction
 Yelp is a widely-used web and mobile platform that functions as a crowd-sourced local business review site. Users can submit reviews, photos, and tips about businesses, while also browsing information and ratings left by others. In a competitive market like the restaurant industry, understanding the factors that influence business success is crucial for stakeholders. This project leverages the Yelp dataset to investigate the relationship between user engagement (reviews, tips, and check-ins) and business success metrics (review count and ratings) for restaurants.
